@@ -8,14 +8,15 @@
 
 Hi, I'm [Mayank Garg](https://www.linkedin.com/in/mayankgarg23), a results-driven professional with experience in designing scalable and reliable software applications with solid understanding, development, and debugging skills in object-oriented and functional programming paradigm and working in a real-life environment and product development.
 
+I am a graduate student at San Jose State University (SJSU) pursuing *MS* in **Software Engineering** with specialization in Enterprise Software Technologies to pursue my interests in more depth.
+
 👨‍💻 **Work Summary:**  
 >Believes that TDD, Clean Code, Refactoring, and Unit Testing as the primary pillars to building any software successfully
 
 >4 years of professional work experience in software development and likes to play with new technologies, build projects, and love opportunities to learn more.
 
->I have done my undergrad in *B.Tech* majoring in **Information Technology**. Right now, I am in my Final Semester of *MS* in **Software Engineering** to pursue my interests in more depth.
+>I have done my undergrad in *B.Tech* majoring in **Information Technology**.
   
-- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@mayankgarg](mailto:mayankgarg.jpr@gmail.com)
 - 📝 [Resume]
 
