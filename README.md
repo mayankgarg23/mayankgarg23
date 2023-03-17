@@ -43,6 +43,8 @@ I am a graduate student at San Jose State University (SJSU) pursuing *MS* in **S
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" **alt="Prometheus" width="40" height="40"/>&nbsp;                                                                                                                   
 </div>
 
+<br/>
+
 📈 My GitHub Stats
 
 <p>
