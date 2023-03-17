@@ -25,8 +25,8 @@ I am a graduate student at San Jose State University (SJSU) pursuing *MS* in **S
 
 >I have done my undergrad in *B.Tech* majoring in **Information Technology**.
   
-- 📫 How to reach me: [@mayankgarg](mailto:mayankgarg.jpr@gmail.com)
-- 📝 [Resume]
+- 📫 How to reach me: [@mayankgarg23](mailto:mayankgarg.jpr@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1q20Mo3wexOUaSydrKyEdhvAY44kxu2Hu/view?usp=share_link)
 
 **Languages and Tools:**  
 
