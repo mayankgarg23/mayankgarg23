@@ -30,8 +30,16 @@ I am a graduate student at San Jose State University (SJSU) pursuing *MS* in **S
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/flask-original.svg" title="Flask" **alt="Flask" width="40" height="40/>           <img src="https://github.com/devicons/devicon/blob/master/icons/docker/grafana-original.svg" title="Grafana" **alt="Grafana" width="40" height="40/>           <img src="https://github.com/devicons/devicon/blob/master/icons/docker/kubernetes-plain.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40/>           
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/scala-original.svg" title="Scala" **alt="Scala" width="40" height="40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/apachekafka-original.svg" title="Kafka" **alt="Kafka" width="40" height="40/>       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/python-original.svg" title="Python" **alt="Python" width="40" height="40/>           <img src="https://github.com/devicons/devicon/blob/master/icons/docker/prometheus-original.svg" title="Prometheus" **alt="Prometheus" width="40" height="40/>                                                                                                                   
+</div>
 
 📈 My GitHub Stats
 
