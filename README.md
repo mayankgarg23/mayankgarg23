@@ -11,9 +11,14 @@
 <h1 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <br />
 
-Hi, I'm [Mayank Garg](https://www.linkedin.com/in/mayankgarg23), a results-driven professional with experience in designing scalable and reliable software applications with solid understanding, development, and debugging skills in object-oriented and functional programming paradigm and working in a real-life environment and product development.
+I'm [Mayank Garg](https://www.linkedin.com/in/mayankgarg23), a results-driven professional with experience in designing scalable and reliable software applications with solid understanding, development, and debugging skills in object-oriented and functional programming paradigm and working in a real-life environment and product development.
 
 I am a graduate student at San Jose State University (SJSU) pursuing *MS* in **Software Engineering** with specialization in Enterprise Software Technologies to pursue my interests in more depth.
 
