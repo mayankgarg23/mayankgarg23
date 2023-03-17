@@ -29,5 +29,4 @@ I am a graduate student at San Jose State University (SJSU) pursuing *MS* in **S
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=mayankgarg23&show_icons=true&theme=gotham" alt="mayankgarg23" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgarg23&show_icons=true&theme=gotham&langs_count=8&layout=compact"/>
 </p>
