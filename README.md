@@ -21,9 +21,9 @@ I'm [Mayank Garg](https://www.linkedin.com/in/mayankgarg23), a results-driven pr
 
 >4 years of professional work experience in software development and likes to play with new technologies, build projects, and love opportunities to learn more.
 
->I have done my undergrad in *B.Tech* majoring in **Information Technology**.
-
 >I have done my graduation in *MS* majoring in **Software Engineering** with specialization in Enterprise Software Technologies.
+
+>I have done my undergrad in *B.Tech* majoring in **Information Technology**.
   
 - 📫 How to reach me: [@mayankgarg23](mailto:mayankgarg.jpr@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1q20Mo3wexOUaSydrKyEdhvAY44kxu2Hu/view?usp=share_link)
