@@ -19,7 +19,7 @@ I'm [Mayank Garg](https://www.linkedin.com/in/mayankgarg23), a results-driven pr
 👨‍💻 **Work Summary:**  
 >Believes that TDD, Clean Code, Refactoring, and Unit Testing as the primary pillars to building any software successfully
 
->4 years of professional work experience in software development and likes to play with new technologies, build projects, and love opportunities to learn more.
+>6 years of professional work experience in software development and likes to play with new technologies, build projects, and love opportunities to learn more.
 
 >I have done my graduation in *MS* majoring in **Software Engineering** with specialization in Enterprise Software Technologies.
 
